@@ -35,7 +35,7 @@ Antes de rodar o projeto, certifique-se de ter o Node.js e o npm (ou Yarn) insta
 1. Clone o repositório para sua máquina local:
 
 ```bash
-   git clone https://github.com/utilizador/repositorio.git
+   git clone https://github.com/DenisSMorais2/My-Portfolio.git
 ```
 Acesse o diretório do projeto:
 
