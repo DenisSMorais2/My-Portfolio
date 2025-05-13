@@ -75,4 +75,5 @@ Carousel: Utiliza o componente Carousel da biblioteca `react-multi-carousel` par
 ## Props:
 O componente Skills não requer props externas, pois as habilidades estão predefinidas diretamente no código. Contudo, o carrossel é configurado para se ajustar automaticamente ao tamanho da tela com a propriedade responsive.
 
+![portfolio](https://github.com/user-attachments/assets/43a8a81f-9c63-4f77-a73f-417d6bcaf7b1)
 
